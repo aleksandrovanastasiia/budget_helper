@@ -46,4 +46,5 @@ budget_helper_project/
 python main.py
 ```
 
-
+## Ссылка на видео
+https://drive.google.com/file/d/13UqjR9pU_y9ErpGAaot4IybEegriJ3To/view?usp=drivesdk
