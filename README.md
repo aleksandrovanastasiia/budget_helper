@@ -38,10 +38,4 @@ budget_helper_project/
     └── budget_manager.py
 ```
 
-## Как запустить
-1. Установите Python 3.10+.
-2. Откройте папку проекта.
-3. Запустите:
-```bash
-python main.py
-```
+
